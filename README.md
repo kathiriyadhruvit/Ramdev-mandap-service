@@ -17,6 +17,11 @@ Ramdev Mandap Service – Django Web Application  Ramdev Mandap Service is a web
 <img width="1492" height="828" alt="Signup" src="https://github.com/user-attachments/assets/43c9a9b5-9553-47d1-99b0-cdaa594f9e2d" />
 8-Login
 <img width="1095" height="556" alt="login" src="https://github.com/user-attachments/assets/1abd7f0d-d5ae-4e8c-a9d9-22ce983cd882" />
+9-Cart
+<img width="1618" height="830" alt="Cart" src="https://github.com/user-attachments/assets/455f8162-4221-4cce-b24d-d0156e03c745" />
+10-Footer
+<img width="1886" height="827" alt="Footer" src="https://github.com/user-attachments/assets/cdd393db-069a-458b-88f9-a4756f660c67" />
+
 
 
 
